@@ -1,0 +1,8 @@
+nav {
+  display: flex;
+  border-bottom: 2px solid #f3f3f3;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 999;
+  margin-left: 2rem;
+}
