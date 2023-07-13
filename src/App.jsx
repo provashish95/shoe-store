@@ -1,10 +1,11 @@
+import Navigation from "./navigation/nav"
 
 function App() {
 
 
   return (
     <>
-      h1
+      <Navigation />
     </>
   )
 }
